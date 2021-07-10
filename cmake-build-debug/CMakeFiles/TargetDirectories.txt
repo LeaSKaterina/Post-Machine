@@ -1,0 +1,3 @@
+/home/katsiaryna/мур/2 курс моё/ппвис.3сем/PostMachine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/katsiaryna/мур/2 курс моё/ппвис.3сем/PostMachine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/katsiaryna/мур/2 курс моё/ппвис.3сем/PostMachine/cmake-build-debug/CMakeFiles/PostMachine.dir

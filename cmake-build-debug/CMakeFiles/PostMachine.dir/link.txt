@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/PostMachine.dir/main.cpp.o CMakeFiles/PostMachine.dir/PostMachineLibrary.cpp.o CMakeFiles/PostMachine.dir/Rules.cpp.o -o PostMachine 
